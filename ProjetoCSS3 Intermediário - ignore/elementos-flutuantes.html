@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Elementos Flutuantes</title>
+		<meta charset="utf-8">
+
+		<style type="text/css">
+			
+
+			#principal {
+				border: 1px solid red;
+				background: green;
+			}
+			.conteudo {
+				background: blue;
+				border: 1px solid gray;
+				width: 250px;
+				height: 250px;
+				margin: 10px;
+				transition: 0.2s;
+				float: left;
+			}
+			.conteudo:hover {
+				background: red;
+			}
+			/*
+			.conteudo1 {
+				background: blue;
+				border: 1px solid gray;
+				width: 150px;
+				height: 150px;
+				float: right;;
+			}
+			*/
+			.clear {
+				/*left, right, buth, none*/
+				clear: both;
+			}
+
+
+		</style>
+	</head>
+	<body>
+		<div id="principal">
+			<div class="conteudo">
+				conteúdo 1
+			</div>
+			<div class="conteudo">
+				conteúdo 2
+			</div>
+			<div class="conteudo">
+				conteúdo 3
+			</div>
+
+			<div class="clear"></div>
+
+		</div>
+	</body>
+</html>

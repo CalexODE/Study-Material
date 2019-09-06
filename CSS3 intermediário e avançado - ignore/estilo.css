@@ -1,0 +1,50 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/*Formatação em todos os seletores*/
+/*
+*{
+	border: 1px solid red;
+}
+*/
+
+/*Seletor de classe*/
+/*
+p.red {
+	color: red;
+}
+*/
+
+
+/*seletor de filho| li > a = li filho de a*/
+/*
+li>a {
+	text-decoration: none;
+}
+*/
+
+
+/*Seletor de elemento adjacente*/
+/*
+h1+p {
+
+}
+*/
+
+
+/*Seletor de irmão de geral*/
+/*
+h1~p{
+	color: red;
+}
+*/
+
+p {
+	color: red !important;
+}
+
+p {
+	color: blue;
+}
