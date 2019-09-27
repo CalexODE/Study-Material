@@ -20,6 +20,7 @@ ul a {
 	text-decoration: none;
 	color: #fff;
 	background: url(_imagens/divisor.png) repeat-y;
+	transition: 0.4s;
 }
 
 ul .primeiro a{
