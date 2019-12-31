@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5feae81-92dd-4d3e-b74a-2da466a8d361" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Study-Material" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Projeto Notícias Cidade/index.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Projeto Notícias Cidade/_css/estilo.css" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1VkzTOJGRneQaXDNhVoKnib5zV7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5feae81-92dd-4d3e-b74a-2da466a8d361" name="Default Changelist" comment="" />
+      <created>1577811888361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577811888361</updated>
+      <workItem from="1577811896631" duration="6221000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="517" y="45" key="#Notifications" timestamp="1577812489180">
+      <screen x="64" y="0" width="1302" height="768" />
+    </state>
+    <state x="517" y="45" key="#Notifications/64.0.1302.768@64.0.1302.768" timestamp="1577812489180" />
+    <state x="368" y="29" key="SettingsEditor" timestamp="1577812480676">
+      <screen x="64" y="0" width="1302" height="768" />
+    </state>
+    <state x="368" y="29" key="SettingsEditor/64.0.1302.768@64.0.1302.768" timestamp="1577812480676" />
+    <state x="648" y="176" key="run.anything.popup" timestamp="1577818989692">
+      <screen x="64" y="0" width="1302" height="768" />
+    </state>
+    <state x="648" y="176" key="run.anything.popup/64.0.1302.768@64.0.1302.768" timestamp="1577818989692" />
+  </component>
+</project>
