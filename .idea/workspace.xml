@@ -27,8 +27,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Projeto Notícias Cidade" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alexa\Documents\GitHub\Study-Material\Projeto Notícias Cidade" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -54,7 +59,8 @@
       <updated>1577811888361</updated>
       <workItem from="1577811896631" duration="6825000" />
       <workItem from="1578417885359" duration="4585000" />
-      <workItem from="1579009191835" duration="3335000" />
+      <workItem from="1579009191835" duration="3494000" />
+      <workItem from="1579625231392" duration="3788000" />
     </task>
     <servers />
   </component>
@@ -70,9 +76,10 @@
       <screen x="64" y="0" width="1302" height="768" />
     </state>
     <state x="368" y="29" key="SettingsEditor/64.0.1302.768@64.0.1302.768" timestamp="1577812480676" />
-    <state x="648" y="176" key="run.anything.popup" timestamp="1577818989692">
-      <screen x="64" y="0" width="1302" height="768" />
+    <state x="613" y="176" key="run.anything.popup" timestamp="1579628906848">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
+    <state x="613" y="176" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1579628906848" />
     <state x="648" y="176" key="run.anything.popup/64.0.1302.768@64.0.1302.768" timestamp="1577818989692" />
   </component>
 </project>
