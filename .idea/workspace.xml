@@ -10,6 +10,14 @@
   <component name="FavoritesManager">
     <favorites_list name="Study-Material" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -25,12 +33,17 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Projeto Notícias Cidade" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alexa\Documents\GitHub\Study-Material\Projeto Chalé Hotel\_imagens" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\alexa\Documents\GitHub\Study-Material\Projeto Notícias Cidade" />
     </key>
@@ -61,6 +74,7 @@
       <workItem from="1578417885359" duration="4585000" />
       <workItem from="1579009191835" duration="3494000" />
       <workItem from="1579625231392" duration="3788000" />
+      <workItem from="1580142708963" duration="5873000" />
     </task>
     <servers />
   </component>
